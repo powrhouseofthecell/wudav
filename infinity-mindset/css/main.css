@@ -1,0 +1,14 @@
+/* RESETS */
+* {
+   padding: 0;
+   margin: 0;
+   box-sizing: border-box;
+}
+
+body {
+   background-color: rgb(221, 212, 212) !important;
+}
+
+.center {
+   text-align: center;
+}
